@@ -1,4 +1,4 @@
-module github.com/davidddw/go-utils
+module github.com/davidddw/go-common
 
 go 1.14
 
